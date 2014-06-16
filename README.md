@@ -37,6 +37,11 @@ Next 24 Hours:        Partly cloudy in the afternoon.
 Next 7 Days:          None
 ```
 
+License
+-------
+
+MIT
+
 [ForeCast.io]: http://forecast.io/
 [API]: https://developer.forecast.io/
 [ZeevG]: https://github.com/ZeevG/python-forcast.io
