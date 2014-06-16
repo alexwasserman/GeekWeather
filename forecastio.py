@@ -1,3 +1,11 @@
+##
+#
+# Author: Alex Wasserman
+# Homepage: http://alexwasserman.com
+# Email: alex@alexwasserman.com
+#
+##
+
 try:
     import json
 except ImportError:
